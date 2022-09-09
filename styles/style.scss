@@ -1,0 +1,19 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.3/font/bootstrap-icons.css");
+@import url("https://unpkg.com/boxicons@2.1.2/css/boxicons.min.css");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+@import url("https://unpkg.com/aos@2.3.1/dist/aos.css");
+$red: rgb(179, 28, 28);
+$purple: rgb(139, 7, 139);
+$light-border: 1px solid rgba(117, 116, 116, 0.4);
+$dark: #212529;
+
+body {
+    overflow-x: hidden;
+    margin: 0;
+    padding: 0;
+    background: url("/assets/.png");
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
