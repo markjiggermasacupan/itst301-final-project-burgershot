@@ -1,10 +1,11 @@
 ## ITST 301 (Principles of Web Design) Final Project
 
 #### DIRECTION:
-On a Document file (MSWord or docx), answer or do the following.
+On a Document file (MSWord or docx), answer or do the following:
 * Conceptualize your own “Social-Media” site, and create a Login page (index) and Profile page (Timeline) using HTML and CSS (and others).
 * Include the code, and Screenshot for index and for timeline page.
-                                                        
+                                      
+                                      
 ###### FEATURES:
 * SOCIAL MEDIA SITE CONCEPT
 <pre>  Sample 1 </pre>
