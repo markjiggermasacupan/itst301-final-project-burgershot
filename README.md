@@ -16,3 +16,9 @@
 
 ###### OWNER / DEVELOPER:
 * Masacupan, Mark Jigger V.
+
+###### DIRECTION:
+#### On a Document file (MSWord or docx), answer or do the following.
+* Conceptualize your own “Social-Media” site, and create a Login page (index) and Profile page (Timeline) using HTML and CSS (and others).
+* Include the code, and Screenshot for index and for timeline page.
+
