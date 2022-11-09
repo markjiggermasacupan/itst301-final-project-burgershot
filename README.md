@@ -14,4 +14,6 @@
 <pre>  Sample 4 </pre>
 
 ###### INDIVIDUAL:
-* Masacupan, Mark Jigger V. of LSPU Siniloan; BSIT 3A Major in Web and Mobile Application Development
+* Masacupan, Mark Jigger V.
+* LSPU Siniloan Campus
+* BSIT 3A Major in Web and Mobile Application Development
