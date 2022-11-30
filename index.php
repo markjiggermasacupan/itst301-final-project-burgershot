@@ -23,10 +23,10 @@
         if(empty($_SESSION["email"])) echo '<link rel="stylesheet" href="css/header.css">'; 
         if($_SESSION["type"] == "client") echo '<link rel="stylesheet" href="css/client_header.css">'; 
     ?>
+   	<link rel="icon" type="image/any-icon" href="https://burgershot.x10.mx/images/logo/burger-logo.png">
     <link rel="stylesheet" href="css/index.css">
     <link rel="stylesheet" href="css/footer.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css"/>
-  	<link rel="icon" type="image/any-icon" href="images/Burgershot.ico">
     <title>Burger Shot</title>
 </head>
 <body>
@@ -44,7 +44,9 @@
                 <div class="container_description">
                     <div class="line"></div>
                     <h1 class="tagline">WHOOPERS<br>FOR TODAYS BURGERS!</h1>
-                    <p class="description">From your order into your table and feel the juiciest, freshest, and hand-crafted burgers that I've made.</p>
+                    <p class="description">
+                      From your order into your table and feel the juiciest, freshest, and hand-crafted burgers that I've made.
+                  	</p>
                     <p class="discount">50% OFF</p>
                     <div class="container_contact-info">
                         <div class="accounts">

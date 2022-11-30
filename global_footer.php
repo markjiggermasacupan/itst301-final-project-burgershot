@@ -4,7 +4,7 @@
         <div class="footer_logo">
             <a href="index.php">
                 <img src="images/logo/burger-logo.png" alt="">
-            </a>
+          	</a>
                 <h1 class="restaurant-name"> Burger Shot</h1>
         </div>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi quos ad possimus aut rerum id molestiae.</p>

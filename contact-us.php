@@ -78,7 +78,7 @@
         <section class="section_contact-page">
             <div class="container_map">
                 <h1>Contact Us</h1>
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d61831.420441104514!2d120.90147162171846!3d14.400407872058466!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3397d252b84f3c11%3A0x38b0f2e1f833e8df!2sImus%2C%20Cavite!5e0!3m2!1sen!2sph!4v1651582995336!5m2!1sen!2sph" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                <iframe src="https://www.google.com/maps/embed?pb=!4v1669720487975!6m8!1m7!1s8xBObS6d8dWBZo11fNKmSA!2m2!1d14.404934524249!2d121.4646484715352!3f0.8884567076667516!4f-2.4187483015293054!5f1.0782917280212074" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
             </div>
         </section>
 

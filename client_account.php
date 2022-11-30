@@ -10,7 +10,7 @@
   	<meta property="og:title" content="Burger Shot Restaurant | Client" />
     <meta property="og:url" content="https://Burgershot.x10.mx/client_account.php"/>
     <meta property="og:image" content="images/website-image.jpg"/>
-    <link rel="icon" type="image/any-icon" href="images/Burgershot.ico">
+  	<link rel="icon" type="image/any-icon" href="https://burgershot.x10.mx/images/logo/burger-logo.png">
     <link rel="stylesheet" href="css/client_header.css">
     <link rel="stylesheet" href="css/client_account.css">
     <link rel="stylesheet" href="css/footer.css">

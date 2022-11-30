@@ -73,7 +73,7 @@
   	<meta property="og:title" content="Burger Shot Restaurant | Sign Up">
     <meta property="og:url" content="https://Burgershot.x10.mx/signup.php">
     <meta property="og:image" content="images/website-image.jpg">
-    <link rel="icon" type="image/any-icon" href="images/Burgershot.ico">
+	<link rel="icon" type="image/any-icon" href="https://burgershot.x10.mx/images/logo/burger-logo.png">
     <link rel="stylesheet" href="css/header.css">
     <link rel="stylesheet" href="css/signup.css">
     <link rel="stylesheet" href="css/footer.css">

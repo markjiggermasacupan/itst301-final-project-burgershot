@@ -18,7 +18,7 @@
   	<meta property="og:title" content="Burger Shot Restaurant | Admin">
     <meta property="og:url" content="https://Burgershot.x10.mx/admin_clients.php">
     <meta property="og:image" content="images/website-image.jpg">
-    <link rel="icon" type="image/any-icon" href="images/Burgershot.ico">
+  	<link rel="icon" type="image/any-icon" href="https://burgershot.x10.mx/images/logo/burger-logo.png">
     <link rel="stylesheet" href="css/admin_header.css">
     <link rel="stylesheet" href="css/admin_clients-info.css">
     <link rel="stylesheet" href="css/footer.css">
