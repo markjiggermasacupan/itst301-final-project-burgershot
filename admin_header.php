@@ -2,8 +2,10 @@
 <header class="header_burgershot">
     <nav class="navigation_burgershot">
         <div class="navigation_logo">
-            <img src="images/logo/burger-logo.png" alt="Burger Shot Logo">
-            <h1 class="restaurant-name">Burger Shot</h1>
+            <a href="index.php">
+                <img src="images/logo/burger-logo.png" alt="Burger Shot Logo">
+                <h1 class="restaurant-name">Burger Shot</h1>
+            </a>
         </div>
         <div class="navigation_right">
             <div class="navigation_profile">

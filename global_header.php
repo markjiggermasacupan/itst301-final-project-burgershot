@@ -2,8 +2,9 @@
 <header class="header_burgershot">
     <nav class="navigation_burgershot">
         <div class="navigation_logo">
-            <img src="images/logo/burger-logo.png" alt="Burger Shot Logo">
-            <h1 class="restaurant-name">Burger Shot</h1>
+            <a href="index.php">
+                <img src="images/logo/burger-logo.png" alt="Burger Shot Logo"></a>
+                <h1 class="restaurant-name"> Burger Shot</h1>
         </div>
         <ul class="nav_links" id="nav_links">
             <li class="links"><a href="index.php">Home</a></li>
