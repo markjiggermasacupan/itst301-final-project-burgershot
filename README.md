@@ -13,4 +13,4 @@
 https://x10hosting.com/
 
 #### Visit:
-https://burgershot.x10.mx/
+*https://burgershot.x10.mx/
