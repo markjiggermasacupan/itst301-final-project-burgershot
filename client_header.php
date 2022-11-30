@@ -3,7 +3,7 @@
     <nav class="navigation_burgershot">
         <div class="navigation_logo">
             <a href="index.php">
-                <img src="images/logo/burger-logo.png" class="img-logo" alt="Burger Shot Logo">
+                <img src="images/logo/burger-logo.png" alt="Burger Shot Logo">
             </a>
             <h1 class="restaurant-name">Burger Shot</h1>
         </div>
