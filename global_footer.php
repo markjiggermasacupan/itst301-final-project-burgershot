@@ -2,8 +2,10 @@
 <footer class="footer_burgershot">
     <section class="section_footer-description">
         <div class="footer_logo">
-            <img src="images/logo/burger-logo.png" alt="">
-            <h1 class="restaurant-name"> Burger Shot</h1>
+            <a href="index.php">
+                <img src="images/logo/burger-logo.png" alt="">
+            </a>
+                <h1 class="restaurant-name"> Burger Shot</h1>
         </div>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi quos ad possimus aut rerum id molestiae.</p>
     </section>
