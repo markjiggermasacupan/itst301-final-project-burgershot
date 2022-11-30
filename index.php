@@ -43,8 +43,8 @@
                 </div>
                 <div class="container_description">
                     <div class="line"></div>
-                    <h1 class="tagline">RAIN OR SHINE<br>IT'S TIME TO DINE</h1>
-                    <p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Magna sit amet purus gravida.</p>
+                    <h1 class="tagline">WHOOPERS<br>FOR TODAYS BURGERS!</h1>
+                    <p class="description">From your order into your table and feel the juiciest, freshest, and hand-crafted burgers that I've made.</p>
                     <p class="discount">50% OFF</p>
                     <div class="container_contact-info">
                         <div class="accounts">
